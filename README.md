@@ -8,3 +8,7 @@
 ## 线上地址
 
 http://koringz.github.io/batchLoading/
+
+## 博客地址
+
+http://www.cnblogs.com/hao5599/p/8025821.html
