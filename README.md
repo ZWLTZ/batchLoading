@@ -3,4 +3,4 @@
 
 ## 效果图
 
-![效果图](https://github.com/ZWLTZ/batchLoading/blob/master/load.png)<br />
+![效果图](https://github.com/ZWLTZ/batchLoading/blob/master/demo.png)<br />
