@@ -7,4 +7,4 @@
 
 ## 线上地址
 
-http://koringz.github.io/batchLoading/(http://koringz.github.io/batchLoading/)
+http://koringz.github.io/batchLoading/
